@@ -1,5 +1,5 @@
 /* C program for Calender Project
-        NAME: HARSHAVARDHAN
+        NAME: JAKKU HARSHAVARDHAN
         CLASS:B.TECH III Semester
         HALLTICKET NO: 2203A51012
         College:SR UNIVERSITY
